@@ -1,0 +1,217 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Albania,AL,ALB,8,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,0.36545419692993164,Female,,%,,,,Total
+Albania,AL,ALB,8,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,0.357278972864151,Male,,%,,,,Total
+Albania,AL,ALB,8,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,0.3613143563270569,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,0.7043861150741577,Female,,%,,,,Total
+Algeria,DZ,DZA,12,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,0.729536771774292,Male,,%,,,,Total
+Algeria,DZ,DZA,12,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,0.7172759175300598,Total,,%,,,,Total
+Angola,AO,AGO,24,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.5369106531143188,Female,,%,,,,Total
+Angola,AO,AGO,24,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.5285283327102661,Male,,%,,,,Total
+Angola,AO,AGO,24,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.5327517986297607,Total,,%,,,,Total
+Armenia,AM,ARM,51,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.46733060479164124,Female,,%,,,,Total
+Armenia,AM,ARM,51,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.5016341805458069,Male,,%,,,,Total
+Armenia,AM,ARM,51,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.4856131970882416,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.0369502305984497,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.0377779006958008,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.0373640060424805,Total,,%,,,,Total
+Belize,BZ,BLZ,84,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.6407572627067566,Female,,%,,,,Total
+Belize,BZ,BLZ,84,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.6503289341926575,Male,,%,,,,Total
+Belize,BZ,BLZ,84,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.645681619644165,Total,,%,,,,Total
+Benin,BJ,BEN,204,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.9562084674835205,Female,,%,,,,Total
+Benin,BJ,BEN,204,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.9221160411834717,Male,,%,,,,Total
+Benin,BJ,BEN,204,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.9389163255691528,Total,,%,,,,Total
+Burundi,BI,BDI,108,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.39661705493927,Female,,%,,,,Total
+Burundi,BI,BDI,108,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.3989592790603638,Male,,%,,,,Total
+Burundi,BI,BDI,108,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.3977781534194946,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7985267639160156,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.8215115070343018,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.8102028369903564,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.3985657691955566,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.3970903158187866,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.3978253602981567,Total,,%,,,,Total
+Chad,TD,TCD,148,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,2.41135311126709,Female,,%,,,,Total
+Chad,TD,TCD,148,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,2.3626961708068848,Male,,%,,,,Total
+Chad,TD,TCD,148,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,2.3865363597869873,Total,,%,,,,Total
+Comoros,KM,COM,174,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.4705160856246948,Female,,%,,,,Total
+Comoros,KM,COM,174,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.5139175653457642,Male,,%,,,,Total
+Comoros,KM,COM,174,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.4925062656402588,Total,,%,,,,Total
+Congo,CG,COG,178,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.6361247301101685,Female,,%,,,,Total
+Congo,CG,COG,178,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.616341471672058,Male,,%,,,,Total
+Congo,CG,COG,178,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.626268982887268,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.2579571008682251,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.24633169174194336,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.25197818875312805,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,1.5741620063781738,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,1.5500239133834839,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,1.5619127750396729,Total,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.9655523300170898,Female,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.931496024131775,Male,,%,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.9485538005828857,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,0.469813734292984,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,0.5165084600448608,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,0.4931831359863281,Total,,%,,,,Total
+Egypt,EG,EGY,818,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.5861598253250122,Female,,%,,,,Total
+Egypt,EG,EGY,818,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.5643660426139832,Male,,%,,,,Total
+Egypt,EG,EGY,818,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.5748456120491028,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.6935101747512817,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.686742901802063,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.6900317072868347,Total,,%,,,,Total
+Swaziland,SZ,SWZ,748,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.079267978668213,Female,,%,,,,Total
+Swaziland,SZ,SWZ,748,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.130323052406311,Male,,%,,,,Total
+Swaziland,SZ,SWZ,748,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.1049597263336182,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,2.5622756481170654,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,2.5743346214294434,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,2.56847882270813,Total,,%,,,,Total
+Gabon,GA,GAB,266,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.0910791158676147,Female,,%,,,,Total
+Gabon,GA,GAB,266,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.1001428365707397,Male,,%,,,,Total
+Gabon,GA,GAB,266,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,1.0955067873001099,Total,,%,,,,Total
+Gambia,GM,GMB,270,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.022674322128296,Female,,%,,,,Total
+Gambia,GM,GMB,270,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.0791735649108887,Male,,%,,,,Total
+Gambia,GM,GMB,270,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.0504792928695679,Total,,%,,,,Total
+Ghana,GH,GHA,288,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.2681318521499634,Female,,%,,,,Total
+Ghana,GH,GHA,288,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.2983880043029785,Male,,%,,,,Total
+Ghana,GH,GHA,288,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.2835496664047241,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.4939744472503662,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.4436700344085693,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.4685596227645874,Total,,%,,,,Total
+Guinea,GN,GIN,324,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.5289181470870972,Female,,%,,,,Total
+Guinea,GN,GIN,324,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.512880802154541,Male,,%,,,,Total
+Guinea,GN,GIN,324,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.5208840370178223,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7704546451568604,Female,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7589491605758667,Male,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7645857334136963,Total,,%,,,,Total
+Guyana,GY,GUY,328,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.5644722580909729,Female,,%,,,,Total
+Guyana,GY,GUY,328,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.5682036876678467,Male,,%,,,,Total
+Guyana,GY,GUY,328,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,0.5663534998893738,Total,,%,,,,Total
+Haiti,HT,HTI,332,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.5412079095840454,Female,,%,,,,Total
+Haiti,HT,HTI,332,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.6063734292984009,Male,,%,,,,Total
+Haiti,HT,HTI,332,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.574397087097168,Total,,%,,,,Total
+Honduras,HN,HND,340,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,1.0084197521209717,Female,,%,,,,Total
+Honduras,HN,HND,340,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,1.0433241128921509,Male,,%,,,,Total
+Honduras,HN,HND,340,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,1.0264499187469482,Total,,%,,,,Total
+India,IN,IND,356,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.4413365125656128,Female,,%,,,,Total
+India,IN,IND,356,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.4003384113311768,Male,,%,,,,Total
+India,IN,IND,356,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.4200836420059204,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.8837565183639526,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.815127968788147,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.8483930230140686,Total,,%,,,,Total
+Kenya,KE,KEN,404,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.724452257156372,Female,,%,,,,Total
+Kenya,KE,KEN,404,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7501333951950073,Male,,%,,,,Total
+Kenya,KE,KEN,404,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7373769283294678,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.4084593057632446,Female,,%,,,,Total
+Kiribati,KI,KIR,296,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.4396107196807861,Male,,%,,,,Total
+Kiribati,KI,KIR,296,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.424580693244934,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.5374734997749329,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.5313366651535034,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.5343056917190552,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3556585311889648,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3513942956924438,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3534824848175049,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.2969871759414673,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.3658299446105957,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.3311978578567505,Total,,%,,,,Total
+Liberia,LR,LBR,430,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.6667585372924805,Female,,%,,,,Total
+Liberia,LR,LBR,430,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.6906540393829346,Male,,%,,,,Total
+Liberia,LR,LBR,430,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.6789731979370117,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,2.353670835494995,Female,,%,,,,Total
+Madagascar,MG,MDG,450,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,2.381664752960205,Male,,%,,,,Total
+Madagascar,MG,MDG,450,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,2.36787748336792,Total,,%,,,,Total
+Malawi,MW,MWI,454,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.02820885181427,Female,,%,,,,Total
+Malawi,MW,MWI,454,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.0384292602539062,Male,,%,,,,Total
+Malawi,MW,MWI,454,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.0333162546157837,Total,,%,,,,Total
+Maldives,MV,MDV,462,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.4285513460636139,Female,,%,,,,Total
+Maldives,MV,MDV,462,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.41705045104026794,Male,,%,,,,Total
+Maldives,MV,MDV,462,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.42261162400245667,Total,,%,,,,Total
+Mali,ML,MLI,466,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.6313035488128662,Female,,%,,,,Total
+Mali,ML,MLI,466,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.6356871128082275,Male,,%,,,,Total
+Mali,ML,MLI,466,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.633528232574463,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.8139337301254272,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.8154703378677368,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.814692735671997,Total,,%,,,,Total
+Mexico,MX,MEX,484,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.5625764727592468,Female,,%,,,,Total
+Mexico,MX,MEX,484,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.5551767349243164,Male,,%,,,,Total
+Mexico,MX,MEX,484,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.5588834881782532,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.7877467274665833,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.790177583694458,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.7889975905418396,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,2.090181589126587,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,2.0998029708862305,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Average number of deprivations suffered per child. Homogeneous moderate standards,2011,2.0949313640594482,Total,,%,,,,Total
+Burma,MM,MMR,104,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.5653163194656372,Female,,%,,,,Total
+Burma,MM,MMR,104,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.5912492275238037,Male,,%,,,,Total
+Burma,MM,MMR,104,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.5784770250320435,Total,,%,,,,Total
+Namibia,,NAM,516,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.2273411750793457,Female,,%,,,,Total
+Namibia,,NAM,516,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.2703224420547485,Male,,%,,,,Total
+Namibia,,NAM,516,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.2486954927444458,Total,,%,,,,Total
+Nepal,NP,NPL,524,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.8517664074897766,Female,,%,,,,Total
+Nepal,NP,NPL,524,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.8012325167655945,Male,,%,,,,Total
+Nepal,NP,NPL,524,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.8264201283454895,Total,,%,,,,Total
+Niger,NE,NER,562,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,2.340409994125366,Female,,%,,,,Total
+Niger,NE,NER,562,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,2.3377575874328613,Male,,%,,,,Total
+Niger,NE,NER,562,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,2.339057445526123,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.6055182218551636,Female,,%,,,,Total
+Nigeria,NG,NGA,566,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.605028510093689,Male,,%,,,,Total
+Nigeria,NG,NGA,566,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.6052700281143188,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.370071291923523,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.2950258255004883,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3325762748718262,Total,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,2.1270952224731445,Female,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,2.1592392921447754,Male,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,2.1440374851226807,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.696588397026062,Female,,%,,,,Total
+Paraguay,PY,PRY,600,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.6924003958702087,Male,,%,,,,Total
+Paraguay,PY,PRY,600,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.6944416761398315,Total,,%,,,,Total
+Peru,PE,PER,604,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,0.782410740852356,Female,,%,,,,Total
+Peru,PE,PER,604,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,0.7612116932868958,Male,,%,,,,Total
+Peru,PE,PER,604,Average number of deprivations suffered per child. Homogeneous moderate standards,2012,0.7715210318565369,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.203997254371643,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.233912467956543,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.2189385890960693,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.1152595281600952,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.1578041315078735,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.1362224817276,Total,,%,,,,Total
+Senegal,SN,SEN,686,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3534820079803467,Female,,%,,,,Total
+Senegal,SN,SEN,686,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3844983577728271,Male,,%,,,,Total
+Senegal,SN,SEN,686,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.3688430786132812,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.514336109161377,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.5475975275039673,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,1.5309969186782837,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.8426216244697571,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.8453559279441833,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,0.8440228700637817,Total,,%,,,,Total
+Suriname,SR,SUR,740,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.606655478477478,Female,,%,,,,Total
+Suriname,SR,SUR,740,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.6138195991516113,Male,,%,,,,Total
+Suriname,SR,SUR,740,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.6103253960609436,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,0.9182873964309692,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,0.8768277764320374,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Average number of deprivations suffered per child. Homogeneous moderate standards,2017,0.8970732092857361,Total,,%,,,,Total
+Thailand,TH,THA,764,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.417975515127182,Female,,%,,,,Total
+Thailand,TH,THA,764,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.45967182517051697,Male,,%,,,,Total
+Thailand,TH,THA,764,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.43921390175819397,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.0906492471694946,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.108601450920105,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.0999081134796143,Total,,%,,,,Total
+Togo,TG,TGO,768,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.8022291660308838,Female,,%,,,,Total
+Togo,TG,TGO,768,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7873610258102417,Male,,%,,,,Total
+Togo,TG,TGO,768,Average number of deprivations suffered per child. Homogeneous moderate standards,2014,1.7946574687957764,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.40768420696258545,Female,,%,,,,Total
+Tunisia,TN,TUN,788,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.4203144311904907,Male,,%,,,,Total
+Tunisia,TN,TUN,788,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,0.4141342043876648,Total,,%,,,,Total
+Turkmenistan,TM,TKM,795,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.3901808559894562,Female,,%,,,,Total
+Turkmenistan,TM,TKM,795,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.37923890352249146,Male,,%,,,,Total
+Turkmenistan,TM,TKM,795,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,0.3845421373844147,Total,,%,,,,Total
+Uganda,UG,UGA,800,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.673856258392334,Female,,%,,,,Total
+Uganda,UG,UGA,800,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.6854147911071777,Male,,%,,,,Total
+Uganda,UG,UGA,800,Average number of deprivations suffered per child. Homogeneous moderate standards,2016,1.679657220840454,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.9144624471664429,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.9851243495941162,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.9499177932739258,Total,,%,,,,Total
+Yemen,YE,YEM,887,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.5467116832733154,Female,,%,,,,Total
+Yemen,YE,YEM,887,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.4653174877166748,Male,,%,,,,Total
+Yemen,YE,YEM,887,Average number of deprivations suffered per child. Homogeneous moderate standards,2013,1.5052324533462524,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.6614090204238892,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.7057915925979614,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Average number of deprivations suffered per child. Homogeneous moderate standards,2018,1.6833772659301758,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.2814483642578125,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.3139082193374634,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Average number of deprivations suffered per child. Homogeneous moderate standards,2015,1.2977303266525269,Total,,%,,,,Total
